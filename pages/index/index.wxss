@@ -1,0 +1,25 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+
+.text_hlb3{margin:0px auto; width:100%; height: 150px; background: #c2b2b2 }
+.text_hlb3 swiper{height: 150px;}
+.slide-image{width: 100%; height: 100%;}

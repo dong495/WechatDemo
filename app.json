@@ -1,0 +1,42 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/classify/index",
+    "pages/my/index"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "女王轻奢",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+
+  "tabBar": {  
+    "color": "#a9b7b7",  
+    "selectedColor": "#c93a3a",  
+    "borderStyle":"white",  
+    "list": [{  
+      "selectedIconPath": "images/11.png",  
+      "iconPath": "images/111.png",  
+      "pagePath": "pages/index/index",  
+      "text": "首页"  
+    }, {  
+      "selectedIconPath": "images/22.png",  
+      "iconPath": "images/222.png",  
+      "pagePath": "pages/classify/index",  
+      "text": "购物袋"  
+    }, {  
+      "selectedIconPath": "images/33.png",  
+      "iconPath": "images/333.png",  
+      "pagePath": "pages/my/index",  
+      "text": "我的"  
+    }]  
+  }
+ 
+
+
+}
